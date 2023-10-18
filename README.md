@@ -7,7 +7,7 @@ I developed a Android application "All Chalisa" by using Java.
 4. Users can download Chalisas and access them offline, ensuring that they can use the app even when they don't have an internet connection.
 5. User can also be share this app by sharing application download link through social media or messaging platforms.
 
-#Splash Screen
+#Splash Screen <br>
 ![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/f62645d8-e27c-4fd3-8726-1632d9fb3865)
 
 
