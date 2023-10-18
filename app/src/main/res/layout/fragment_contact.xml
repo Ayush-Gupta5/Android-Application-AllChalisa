@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context=".contactFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Contact Us"
+        android:paddingTop="10dp"
+        android:textColor="@color/white"
+        android:textSize="40sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="75dp"
+        android:src="@drawable/github" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://github.com/Ayush-Gupta5"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/linkedin" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="linkedin.com/in/ayush-gupta-3200a8180"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/gmail" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="guptaayush1146543@gmail.com"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:textSize="15sp"/>
+</LinearLayout>

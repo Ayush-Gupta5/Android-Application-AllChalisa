@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/title5"
+            android:gravity="center"
+            android:background="#9169D8"
+            android:padding="10sp"
+            android:textColor="@color/white"
+            android:textSize="30sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#9169D8"
+        android:padding="10sp"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/play"
+            android:onClick="play"
+            android:layout_width="124dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:textColor="#9169D8"
+            android:textSize="20sp"
+            android:text="Play"/>
+
+        <Button
+            android:id="@+id/pause"
+            android:layout_width="124dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:backgroundTint="@color/white"
+            android:onClick="pause"
+            android:text="Pause"
+            android:textColor="#9169D8"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="398dp"
+        android:layout_height="600dp"
+        android:layout_above="@id/buttons">
+        <!--Scrollable content here-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/SuryaChalisa"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
