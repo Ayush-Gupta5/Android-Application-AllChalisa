@@ -7,34 +7,44 @@ I developed a Android application "All Chalisa" by using Java.
 4. Users can download Chalisas and access them offline, ensuring that they can use the app even when they don't have an internet connection.
 5. User can also be share this app by sharing application download link through social media or messaging platforms.
 
-#Splash Screen <br>
+#Splash Screen <br><br>
 ![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/f62645d8-e27c-4fd3-8726-1632d9fb3865)
 
 
 
 
-#Home-Screen
-![Screenshot_2023-10-01-21-11-47-03_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/b6219b84-c7eb-4a32-a691-bc8b520d35b5)
+#Home-Screen<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/1763af5c-1cb3-4467-b3e8-6dfa224a1910)
 
 
 
-#Contain-List-Screen
-![Screenshot_2023-10-01-21-12-19-61_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/8dfe03ce-db2b-44ad-bd26-b8d0f6cc87f0)
+
+#Contain-List-Screen<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/fd5ce92d-abec-4686-b1ea-7beb5953910a)
 
 
 
-#Contain-Screen
-![Screenshot_2023-10-01-21-12-27-31_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/22a82972-df8c-408f-9355-9f7914cfb82e)
+
+#Contain-with-audio-Screen<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/82856e37-615f-49e9-b478-e64fbb0f9be6)
 
 
 
-#About-Screen
-![Screenshot_2023-10-01-21-12-35-20_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/23bc929a-23ba-44bc-837e-0ae118c79270)
+#Navigation-Drawer<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/34521c1e-50c2-4f61-adf7-c63581db0893)
 
 
 
-#Contact-us-Screen
-![Screenshot_2023-10-01-21-12-39-56_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/b0695716-d3c5-43c4-894a-54afa0d3bfee)
+
+#About-Screen<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/773f1798-b94f-4788-9398-3fce0a602982)
+
+
+
+
+#Contact-us-Screen<br><br>
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/b83855d8-5a4a-4ad5-a0c1-9fefe2b3a5a6)
+
 
 
 
