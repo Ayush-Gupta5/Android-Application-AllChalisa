@@ -8,7 +8,8 @@ I developed a Android application "All Chalisa" by using Java.
 5. User can also be share this app by sharing application download link through social media or messaging platforms.
 
 #Splash Screen
-![Screenshot_2023-10-01-21-12-00-86_1ea49be7238ae82f6517ade3867b5585](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/f25335ef-f742-42e0-9fc0-92bcd3f32fbd)
+![image](https://github.com/Ayush-Gupta5/Android-Application-AllChalisa/assets/143918681/f62645d8-e27c-4fd3-8726-1632d9fb3865)
+
 
 
 
